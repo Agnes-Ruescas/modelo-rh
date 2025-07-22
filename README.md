@@ -24,9 +24,9 @@ Utilizamos um conjunto de dados com informações demográficas, contratuais e c
 
 ##  Estrutura dos Notebooks
 
-- [`EDA_Projeto_Final_MBA.ipynb`](./EDA_Projeto_Final_MBA.ipynb): Análise estatística, visualizações e principais insights do dataset.
-- [`Feature_Engineering_MBA.ipynb`](./Feature_Engineering_MBA.ipynb): Criação de variáveis com hipóteses de negócio e codificação de variáveis categóricas.
-- [`Modelo_MBA.ipynb`](./Modelo_MBA.ipynb): Treinamento, avaliação e comparação dos modelos preditivos com foco em Recall e Lift.
+- [`EDA_Projeto_Final_MBA.ipynb`](./notebooks/EDA_Projeto_Final_MBA.ipynb): Análise estatística, visualizações e principais insights do dataset.
+- [`Feature_Engineering_MBA.ipynb`](./notebooks/Feature_Engineering_MBA.ipynb): Criação de variáveis com hipóteses de negócio e codificação de variáveis categóricas.
+- [`Modelo_MBA.ipynb`](./notebooks/Modelo_MBA.ipynb): Treinamento, avaliação e comparação dos modelos preditivos com foco em Recall e Lift.
 
 ---
 
